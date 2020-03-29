@@ -1,0 +1,11 @@
+{
+    "name": "Extensão",
+    "manifest_version": 2,
+    "version": "0.0.0",
+    "description": "Extensão",
+    "options_page": "option.html",
+    "permissions": [
+        "cookies",
+        "https://azure.microsoft.com/*"
+    ]
+}
