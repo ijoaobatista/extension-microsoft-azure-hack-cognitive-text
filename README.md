@@ -1,1 +1,0 @@
-# extension-microsoft-azure-hack-cognitive-text
